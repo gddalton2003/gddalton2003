@@ -9,7 +9,6 @@ Hi 👋 My name is George Dalton
 - 📫 I can be contacted at gddalton2003@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I used to be a scratch golfer.
-- 
 ### Skills
 
 
