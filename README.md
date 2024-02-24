@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @gddalton2003
+![Masterhead](https://algoritmaonline.com/wp-content/uploads/2021/09/bioinformatics-decoding-nature-s-code-of-life-1631170256.157587.png)
+
+Hi 👋 My name is George Dalton
+==============================
+
 - 👀 I’m interested in bioinformatics, scientific discovery, and data science.
 - 🌱 I’m currently enhancing my professional skillset by learning data science applications used in R programming.
 - 💞️ I’m always interested in working on projects that can have a positive impact on the world.
