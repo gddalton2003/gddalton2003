@@ -1,4 +1,4 @@
-![Masterhead](https://algoritmaonline.com/wp-content/uploads/2021/09/bioinformatics-decoding-nature-s-code-of-life-1631170256.157587.png)
+![Masterhead](https://ars.els-cdn.com/content/image/3-s2.0-B9780323897754000067-f01-02-9780323897754.jpg)
 
 Hi 👋 My name is George Dalton
 ==============================
