@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Core Skills
 
-`__Programming__`: Have developed computing pipelines to efficiently filter, analyze, and visualize genomic data. Proficient in multiple programming languages: __Python__ (e.g. Jupyter Notebook, pandas, NumPy), __R__(e.g. Bioconductor, Seurat, WGCNA, CellChat,
+***Programming***: Have developed computing pipelines to efficiently filter, analyze, and visualize genomic data. Proficient in multiple programming languages: __Python__ (e.g. Jupyter Notebook, pandas, NumPy), __R__(e.g. Bioconductor, Seurat, WGCNA, CellChat,
                  SCENIC), and __SQL__. Linux-based computers and software.
                  
 __Bioinformatics__: Analysis of next generation sequencing (NGS) data. Retrieving and manipulating data from public repositories. Ability to manage, interpret, and analyze large datasets. Common bioinformatics software packages, tools, and algorithms.
