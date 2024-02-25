@@ -31,10 +31,14 @@ You can click the Preview link to take a look at your changes.
 
 __Programming__: Have developed computing pipelines to efficiently filter, analyze, and visualize genomic data. Proficient in multiple programming languages: __Python__ (e.g. Jupyter Notebook, pandas, NumPy), __R__(e.g. Bioconductor, Seurat, WGCNA, CellChat,
                  SCENIC), and __SQL__. Linux-based computers and software.
+                 
 __Bioinformatics__: Analysis of next generation sequencing (NGS) data. Retrieving and manipulating data from public repositories. Ability to manage, interpret, and analyze large datasets. Common bioinformatics software packages, tools, and algorithms.
                     Familiarity with functional genetic and genomic data.
+                    
 __Biology__: Genomics, cell biology, biochemistry, systems biology, and next generation sequencing (NGS). Specialized knowledge in domains such as cannabinoid/opioid pharmacology, cell signaling, liver biology, and neuroscience (drug addiction, autism).
+
 __Statistics and Mathematics__: Statistical analysis of next generation sequencing (NGS) data using R and Bioconductor. Application of statistics in the context of biology and genomics. Linear algebra and differential calculus for data science.
+
 __General__: Time management, project management, management of multiple projects, independence, curiosity, self-motivation, ability to complete projects, critical thinking, ability to communicate scientific concepts, collaborative ability, teaching/mentoring,
              science writing/authorship.
 
