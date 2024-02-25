@@ -12,7 +12,7 @@ Hi 👋 My name is George Dalton
 - ⛳️🏌🏼 Fun fact: I used to be a scratch golfer
 - 🧠 My favorite word is "learn"
   
-### Skills
+### Programming Skills
 
 
 <p align="left">
