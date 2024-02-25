@@ -1,4 +1,4 @@
-![Masterhead](https://ars.els-cdn.com/content/image/3-s2.0-B9780323897754000067-f01-02-9780323897754.jpg)
+![Masterhead](https://github.com/gddalton2003/demo_rep/blob/main/1594x396_2.png?raw=true)
 
 Hi 👋 My name is George Dalton
 ==============================
